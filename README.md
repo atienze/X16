@@ -1,2 +1,2 @@
 # X16
-16-bit opcode computer utilizing C &amp; Assembly
+16-bit register computer utilizing C &amp; Assembly
